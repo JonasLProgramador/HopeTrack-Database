@@ -1,8 +1,8 @@
-# Projeto HopeTrack
+# Projeto HopeTrack 🌟
 
 Este repositório contém o script SQL para configurar o banco de dados da aplicação HopeTrack. HopeTrack é uma plataforma que gerencia doadores, doações e instituições de caridade.
 
-## Configuração do Banco de Dados
+## Configuração do Banco de Dados ⚙️
 
 ### Pré-requisitos
 
